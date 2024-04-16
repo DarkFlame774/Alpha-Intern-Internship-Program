@@ -21,8 +21,8 @@ ul li {
     position: relative;
     padding: 28px 18px 22px 50px;
     background: #b055c6;
-    font-size: 17px;
     border-radius: 4px;
+    font-size: 17px;
     transition: 0.2s;
     box-shadow: 5px 5px rgb(138, 58, 191);
     -webkit-user-select: none;
