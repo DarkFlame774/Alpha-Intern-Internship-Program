@@ -22,7 +22,7 @@ ul li {
     background: #b055c6;
     font-size: 17px;
     transition: 0.2s;
-
+    box-shadow: 10px 10px rgb(66, 10, 104);
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
