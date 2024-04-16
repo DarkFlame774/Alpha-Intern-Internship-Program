@@ -16,13 +16,14 @@ ul {
 }
 
 ul li {
+    margin: 10px 0px;
     cursor: pointer;
     position: relative;
     padding: 28px 18px 22px 50px;
     background: #b055c6;
     font-size: 17px;
     transition: 0.2s;
-    box-shadow: 10px 10px rgb(66, 10, 104);
+    box-shadow: 5px 5px rgb(138, 58, 191);
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
@@ -93,7 +94,7 @@ input {
     border: none;
     background-color: rgba(136, 56, 160, 0.721);
     color: rgb(190, 97, 236);
-    
+    box-shadow: 3px 3px rgb(138, 58, 191);
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
     width: 75%;
@@ -111,6 +112,7 @@ input {
     padding: 10px;
     width: 18%;
     background: #a351f6;
+    box-shadow: 3px 3px rgb(138, 58, 191);
     color: #35093d;
     float: left;
     text-align: center;
@@ -118,6 +120,8 @@ input {
     cursor: pointer;
     transition: 0.3s;
     border-radius: 0;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
 }
 
 .addButton:hover {
